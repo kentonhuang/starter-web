@@ -19,3 +19,5 @@ This is a simple web project, deployment can be on any server or local system
 ## IS COOL
 
 To be cool
+
+2020 Git.Training.
