@@ -20,4 +20,4 @@ This is a simple web project, deployment can be on any server or local system
 
 To be cool or not
 
-2020 Git.Training.
+2020 Git.Training. All Rights Reserved
