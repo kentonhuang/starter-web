@@ -10,9 +10,11 @@ Yayeet
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. No real purpose
 
 ## Deployment
+
+This is a simple web project, deployment can be on any server or local system
 
 ## IS COOL
 
