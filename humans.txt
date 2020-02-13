@@ -8,6 +8,7 @@
 # THANKS
 
     Thanks to all my students!
+    This is useful text as well.
 
 # TECHNOLOGY COLOPHON
 
